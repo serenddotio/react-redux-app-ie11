@@ -1,0 +1,8 @@
+# Node modules folder
+node_modules
+
+# Lock file
+package-lock.json
+
+# Build folder
+build
